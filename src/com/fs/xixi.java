@@ -10,6 +10,6 @@ package com.fs;
 public class xixi {
 
     public static void main(String[] args) {
-        System.out.println("xixi");
+        System.out.println("xixi哈哈哈");
     }
 }
